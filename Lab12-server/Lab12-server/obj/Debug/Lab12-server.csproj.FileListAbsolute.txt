@@ -1,0 +1,6 @@
+E:\Lab12-server\Lab12-server\bin\Debug\Lab12-server.exe
+E:\Lab12-server\Lab12-server\bin\Debug\Lab12-server.pdb
+E:\Lab12-server\Lab12-server\obj\Debug\Lab12-server.csprojAssemblyReference.cache
+E:\Lab12-server\Lab12-server\obj\Debug\Lab12-server.exe
+E:\Lab12-server\Lab12-server\obj\Debug\Lab12-server.pdb
+E:\Lab12-server\Lab12-server\bin\Debug\Lab12-server.exe.config

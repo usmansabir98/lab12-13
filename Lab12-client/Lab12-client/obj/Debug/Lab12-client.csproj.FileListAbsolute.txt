@@ -1,0 +1,5 @@
+E:\Lab12-client\Lab12-client\bin\Debug\Lab12-client.exe
+E:\Lab12-client\Lab12-client\bin\Debug\Lab12-client.pdb
+E:\Lab12-client\Lab12-client\obj\Debug\Lab12-client.csprojAssemblyReference.cache
+E:\Lab12-client\Lab12-client\obj\Debug\Lab12-client.exe
+E:\Lab12-client\Lab12-client\obj\Debug\Lab12-client.pdb
